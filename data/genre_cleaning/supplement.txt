@@ -1,0 +1,62 @@
+sci-fi adventure	science fiction,adventure
+action/adventure	action,adventure
+time travel	science fiction
+anti-war	war,social issues
+tragicomedy	tragedy,comedy,drama
+fairy tale	fantasy
+zombie	horror
+heist	crime
+prison	crime
+gangster	crime
+spy	crime
+slapstick comedy	comedy
+screwball comedy	comedy
+domestic comedy	comedy,domestic
+marriage drama	drama,domestic
+childhood drama	drama
+comedy of errors	comedy
+comedy of manners	comedy
+comedy-drama	comedy,drama
+fantasy comedy	fantasy,comedy
+romantic comedy	romance,comedy
+romantic fantasy	romance,fantasy
+mythological fantasy	fantasy
+comedy western	comedy,western
+adventure comedy	adventure,comedy
+horror comedy	horror,comedy
+comedy horror	horror,comedy
+sci-fi horror	science fiction,horror
+crime thriller	crime,thriller
+crime comedy	crime,comedy
+action thriller	action,thriller
+comedy thriller	comedy,thriller
+sci-fi thriller	science fiction,thriller
+romantic thriller	romance,thriller
+psychological thriller	psychological,thriller
+psychological horror	psychological,horror
+political drama	politics,drama
+detective	mystery,crime
+whodunnit	mystery,crime,detective
+children's fantasy	children's,fantasy
+courtroom drama	courtroom,law,crime,drama
+legal drama	law,drama
+law & crime	law,crime
+courtroom comedy	law,courtroom,comedy
+action comedy	action,comedy
+doomsday	disaster,survival
+wuxia	action,fantasy,adventure,chinese
+chase	action,thriller
+caper	crime
+political satire	politics,satire
+combat	action
+gender issues	social issues
+feminist	social issues
+workplace comedy	comedy,workplace
+haunted house	horror,supernatural
+christian	religious
+road-horror	roadtrip,horror
+fantasy drama	fantasy,drama
+alien	monster,science fiction
+outlaw	crime
+coming of age	teen
+zombie	horror

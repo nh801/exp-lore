@@ -1,0 +1,64 @@
+science	science fiction
+political	politics
+biographical	biography
+biopic	biography
+biopic [feature]	biography
+short	short story
+costume drama	historical
+costume adventure	historical,adventure
+period piece	historical
+period	historical
+history	historical
+historical epic	historical
+bengali	indian
+tamil	indian
+bollywood	indian
+tollywood	indian
+tamil cinema	indian
+black comedy	dark comedy,comedy
+children's/family	children's,family
+action thrillers	action thriller
+gay	lgbt
+gay interest	lgbt
+gay themed	lgbt
+creature	monster,survival
+buddy	friendship
+road	travel,roadtrip
+family-oriented adventure	family,adventure
+animal picture	animal
+natural horror films	horror,natural horror
+spaghetti western	western
+b-western	western
+revisionist western	western
+hybrid western	western
+epic western	western
+social problem	social issues
+swashbuckler	adventure,action
+christmas movie	holiday,christmas
+media satire	satire
+whodunit	whodunnit
+auto racing	racing
+addiction drama	addiction,drama
+neo-noir	noir
+juvenile delinquency	crime,teen,social issues
+interpersonal relationships	drama,relationship drama
+family & personal relationships	drama,relationship drama
+sword and sorcery	action,fantasy
+glamorized spy film	spy,crime
+animals	animal
+samurai	japanese,action
+inspirational drama	drama
+extreme sports	sports
+natural disaster	disaster
+cold war	historical,war
+space western	science fiction,western
+science fiction western	science fiction,western
+cyberpunk	science fiction,social issues
+alien invasion	alien,survival
+space opera	science fiction,drama,adventure
+school story	teen
+coming-of-age	coming of age
+gross out	horror
+costume horror	horror
+humour	comedy
+combat	action

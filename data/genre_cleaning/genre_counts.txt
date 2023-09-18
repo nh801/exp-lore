@@ -1,0 +1,114 @@
+,0
+romance,6617
+drama,4400
+comedy,3032
+romantic drama,2250
+romantic comedy,1912
+action,604
+historical,527
+adventure,503
+crime,462
+thriller,455
+comedy-drama,444
+indian,424
+fantasy,337
+teen,321
+action/adventure,271
+family,252
+lgbt,244
+war,225
+coming of age,207
+mystery,191
+melodrama,179
+chinese,147
+biography,140
+family drama,123
+domestic,109
+science fiction,105
+dark comedy,99
+screwball comedy,99
+sports,98
+comedy of manners,88
+horror,87
+western,86
+politics,80
+japanese,73
+music,72
+crime thriller,72
+political drama,67
+children's,62
+satire,60
+roadtrip,59
+travel,59
+romantic fantasy,58
+domestic comedy,58
+filipino,55
+slapstick,52
+marriage drama,51
+fantasy comedy,49
+comedy of errors,48
+psychological,44
+psychological thriller,44
+epic,40
+social issues,39
+friendship,37
+slice of life,36
+tragedy,36
+martial arts,35
+crime drama,34
+suspense,34
+crime comedy,33
+dance,32
+gangster,26
+workplace,25
+workplace comedy,25
+feminist,21
+supernatural,20
+spy,20
+historical drama,16
+fantasy adventure,15
+adventure comedy,15
+law,15
+heist,14
+disaster,14
+courtroom,14
+anime,13
+holiday,13
+courtroom drama,13
+religious,13
+christmas,13
+tragicomedy,12
+children's fantasy,12
+detective,12
+medical,11
+chase,11
+wuxia,11
+monster,10
+time travel,10
+superhero,10
+boxing,9
+political thriller,9
+comedy thriller,8
+caper,8
+survival,7
+action comedy,7
+political satire,7
+fairy tale,6
+action thriller,6
+childhood drama,6
+slasher,6
+gothic,6
+animal,5
+comedy western,4
+prison,3
+jungle,3
+doomsday,3
+horror comedy,3
+racing,3
+zombie,2
+dystopia,2
+noir,2
+natural horror,2
+escape,1
+alien,1
+haunted house,1
